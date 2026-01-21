@@ -20,3 +20,18 @@ This repository is a **hands-on Git learning activity** designed for **2 partici
   - GitHub / GitLab accounts
 
 ---
+
+## 🧩 Phase 1 — Project Birth
+
+### Step 1: Developer A creates project locally
+```bash
+mkdir fintech-app
+cd fintech-app
+echo "FinTech App - Initial Version" > README.md
+echo "console.log('Hello FinTech');" > app.js
+git init
+git add .
+git commit -m "Initial local project setup"
+```
+
+### Step 2: Team Lead B creates remote repository
