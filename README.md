@@ -1,7 +1,7 @@
 ## Readme File demo 
 
 ## TECH STACK FOR TRAINING 
--Network fundamentals 
+`Network fundamentals 
 -Java
 -Sprint boot
 -Git
